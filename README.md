@@ -260,7 +260,11 @@ SNOWFLAKE_PASSWORD  = "your_password"
 
 ## 🖼️ Sample Outputs
 
-Coming soon :)
+<img width="1319" height="736" alt="Screenshot 2026-03-01 220638" src="https://github.com/user-attachments/assets/30e4af48-57ba-4066-a421-b326d3d972c2" />
+<img width="1315" height="753" alt="Screenshot 2026-03-01 220626" src="https://github.com/user-attachments/assets/e300cd1e-c5ef-473a-b33c-93796f6e48f0" />
+
+
+More Coming soon :)
 
 ## 💼 Business Value
 
